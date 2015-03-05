@@ -1,0 +1,22 @@
+{
+  "name": "uphover",
+  "version": "1.0.0",
+  "description": "This jQuery plugin make the link float by the motion of your mouse hover them!",
+  "main": "upHover.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uplaod/upHover.js.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "uplaod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uplaod/upHover.js/issues"
+  },
+  "homepage": "https://github.com/uplaod/upHover.js"
+}
