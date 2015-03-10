@@ -1,7 +1,7 @@
 # upHover
  
-> upHover.js make the link float by the motion of your mouse hover them!
-This <a href="http://jsfiddle.net/bsozoo/aep2f32a/embedded/result/">demo</a> show you the upHover effect.
+upHover.js makes the link float by the motion of your mouse over them!
+This <a href="http://jsfiddle.net/bsozoo/aep2f32a/embedded/result/">demo</a> shows you the upHover effect.
 
 Visit http://uplaod.fr/upgit/uphover/
 
